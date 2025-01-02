@@ -39,7 +39,6 @@ The project contains five main questions, each implemented in its own package:
 ## Technologies Used
 - Java 11
 - Maven for dependency management
-- JUnit for testing
 
 ## How to Run
 
