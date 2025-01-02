@@ -1,0 +1,15 @@
+# Number of vertices
+8
+
+# Adjacency Matrix (8x8)
+# Each row represents connections from that vertex to others
+# Format: capacity from vertex i to vertex j, 0 if no direct connection
+
+0  20  15  0   0   0   0   0    # Node 0 (Source)
+0  0   10  15  0   0   0   0    # Node 1
+0  0   0   10  20  0   0   0    # Node 2
+0  0   0   0   10  25  0   0    # Node 3
+0  0   0   0   0   15  20  0    # Node 4
+0  0   0   0   0   0   10  30   # Node 5
+0  0   0   0   0   0   0   20   # Node 6
+0  0   0   0   0   0   0   0    # Node 7 (Sink) 
